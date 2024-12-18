@@ -1,4 +1,4 @@
-# Vehicle Fuel Efficiency Prediction
+# End-to-End-Machine-Learning-For-Fuel-Consumption 🎗
 
 ## Overview
 This project aims to predict the **Miles Per Gallon (MPG)** of vehicles based on various vehicle attributes like displacement, weight, acceleration, and others. The dataset contains information from the 1970s and 1980s. The primary goal is to create a predictive model for vehicle fuel efficiency.
